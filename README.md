@@ -20,10 +20,7 @@ Welcome! This repo gives you a ready-to-use cloud dev environment in your browse
 
 **Click the button below** to create your Codespace for this repository:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/<OWNER>/<REPO>?quickstart=1)
-
-> 🔧 Replace `<OWNER>/<REPO>` once you create your course repository (e.g., `ie-university/cloud-computing-starter`).  
-> If the badge doesn’t work for your fork, use: **Code ▸ Codespaces ▸ Create codespace on main** (top-left of the repo page).
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/fullstackdataengineer/cc_student_environment?quickstart=1)
 
 ---
 
