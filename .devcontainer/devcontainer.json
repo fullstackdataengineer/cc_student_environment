@@ -17,7 +17,9 @@
         "ms-azuretools.vscode-docker",
         "ms-vscode.azure-account",
         "ms-vscode.azurecli",
-        "AmazonWebServices.aws-toolkit-vscode"
+        "AmazonWebServices.aws-toolkit-vscode",
+        "redhat.ansible",
+        "HashiCorp.terraform"        
       ]
     }
   },
