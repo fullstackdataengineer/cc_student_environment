@@ -10,6 +10,8 @@ Welcome! This repo gives you a ready-to-use cloud dev environment in your browse
 - AWS CLI + `boto3`
 - Common Azure Python SDKs
 - Helpful VS Code extensions preinstalled
+- Ansible
+- Terraform
 
 > 💡 **What is Codespaces?**  
 > GitHub Codespaces is a cloud development environment that launches a full Linux container with your tools and extensions already installed. You code in the browser (or VS Code desktop), without setting up your laptop. Great for first-time cloud developers!
