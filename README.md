@@ -32,7 +32,9 @@ Welcome! This repo gives you a ready-to-use cloud dev environment in your browse
 - **Python 3.11** – via Dev Container Feature  
 - **Azure** – `az` CLI + **Azure Functions Core Tools v4** for local development  
 - **AWS** – AWS CLI + `boto3`  
-- **Python SDKs preinstalled** – `azure-identity`, `azure-storage-blob`, `azure-storage-queue`, `azure-data-tables`, `azure-keyvault-secrets`, `azure-eventhub`, `boto3`  
+- **Python SDKs preinstalled** – `azure-identity`, `azure-storage-blob`, `azure-storage-queue`, `azure-data-tables`, `azure-keyvault-secrets`, `azure-eventhub`, `boto3`
+- **Ansible**
+- **Terraform**
 - **VS Code Extensions** – Python, Pylance, Azure Functions, Docker, Azure Account, Azure CLI, AWS Toolkit
 
 When the Codespace starts, it reads the files in `.devcontainer/` to build your environment and then runs a setup script automatically.
@@ -67,6 +69,4 @@ az login
 
 # AWS (basic credentials)
 aws configure
-# or, if your course uses AWS SSO:
-# aws configure sso
 ```  
